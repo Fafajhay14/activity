@@ -1,8 +1,11 @@
 Ang pogi ko!
-<<<<<<< HEAD
 SANA ALL
 We can do it
 FIGHT
-=======
 sana all
->>>>>>> ac5ad3cc2d51929bed2672785ef3a54f96b87115
+FIGHT
+FIGHT
+FIGHT
+FIGHT
+FIGHT
+Ang pogi ko!
