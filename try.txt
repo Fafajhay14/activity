@@ -3,9 +3,20 @@ SANA ALL
 We can do it
 FIGHT
 sana all
+<<<<<<< HEAD
 FIGHT
 FIGHT
 FIGHT
 FIGHT
 FIGHT
 Ang pogi ko!
+=======
+>>>>>>> ac5ad3cc2d51929bed2672785ef3a54f96b87115
+edit 
+edit
+>>>>>>> ee675bca9f12e5ee8a7773f570aaf8ed5a60655a
+FIGHT
+FIGHT
+FIGHT
+FIGHT
+FIGHT
